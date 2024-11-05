@@ -1,0 +1,31 @@
+# Ambiente Virtual
+venv/
+.env/
+*.env
+
+# Arquivos e Diretórios Temporários
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Configuração de IDEs
+.idea/
+.vscode/
+
+# Arquivos de Configuração do Python
+*.db
+*.sqlite3
+*.log
+*.pid
+*.seed
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de Configuração do Sistema
+.DS_Store
+Thumbs.db
+
+# FastAPI
+*.sqlite
+*.pkl
